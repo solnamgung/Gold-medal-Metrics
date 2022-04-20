@@ -1,12 +1,20 @@
 # Metrics Challenge Project
 
 ### Overview
-In this project, I will use Spring Data JPA to power an Olympics analytics web app.
+In this project I will be applying Spring Data JPA for an Olympic metrics reporting web application called Gold Medal Metrics. Gold Medal Metrics allows users to:
+
+- View countries in a list with their population, GDP, and number of Olympic gold medals.
+- Sort the list of countries by any of these attributes, as well as alphabetically by name.
+- View a detailed description of a country, with statistics on their Olympic wins.
+- View a list of every Olympic win a country has with the year, season, winner name, city, and event.
+- Sort the list of Olympic wins by any of these attributes.
 
 ### Testing
 I will use cURL to manually test your API endpoints.
 
 Here are some example cURL requests and responses.
+
+![img.png](img.png)
 
 #### Get countries, sorted by name in ascending order
 
