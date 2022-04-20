@@ -14,7 +14,7 @@ I will use cURL to manually test your API endpoints.
 
 Here are some example cURL requests and responses.
 
-![img.png](img.png)
+ ![](/Users/sol/Desktop/Practice/Screen Recording 2022-04-20 at 11.10.58 AM.mov)
 
 #### Get countries, sorted by name in ascending order
 
